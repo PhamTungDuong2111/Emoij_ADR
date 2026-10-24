@@ -1,0 +1,35 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <group
+        android:scaleX="0.75"
+        android:scaleY="0.75"
+        android:translateX="13.5"
+        android:translateY="13.5">
+        <!-- Yellow Face Base -->
+        <path
+            android:fillColor="#FFD027"
+            android:pathData="M54,14 C31.91,14 14,31.91 14,54 C14,76.09 31.91,94 54,94 C76.09,94 94,76.09 94,54 C94,31.91 76.09,14 54,14 Z"/>
+        <!-- Eyes -->
+        <path
+            android:fillColor="#231F20"
+            android:pathData="M38,44 C40.76,44 43,41.76 43,39 C43,36.24 40.76,34 38,34 C35.24,34 33,36.24 33,39 C33,41.76 35.24,44 38,44 Z"/>
+        <path
+            android:fillColor="#231F20"
+            android:pathData="M70,44 C72.76,44 75,41.76 75,39 C75,36.24 72.76,34 70,34 C67.24,34 65,36.24 65,39 C65,41.76 67.24,44 70,44 Z"/>
+        <!-- Big Smiling Mouth -->
+        <path
+            android:fillColor="#231F20"
+            android:pathData="M34,58 C34,69.05 42.95,78 54,78 C65.05,78 74,69.05 74,58 Z"/>
+        <!-- Tongue -->
+        <path
+            android:fillColor="#FF2D55"
+            android:pathData="M46,74 C48.5,76.5 51,78 54,78 C57,78 59.5,76.5 62,74 C59,68 49,68 46,74 Z"/>
+        <!-- AR Mask Hologram Sparkle -->
+        <path
+            android:fillColor="#00E5FF"
+            android:pathData="M84,20 L86,27 L93,29 L86,31 L84,38 L82,31 L75,29 L82,27 Z"/>
+    </group>
+</vector>

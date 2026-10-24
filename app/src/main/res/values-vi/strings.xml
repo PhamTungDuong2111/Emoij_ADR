@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Emoji Mask</string>
+    <string name="app_tagline">Mặt Nạ Emoji AR &amp; Theo Dõi Biểu Cảm Khuôn Mặt</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_title">Yêu Cầu Quyền Camera</string>
+    <string name="permission_camera_message">Emoji Mask cần quyền truy cập camera để nhận diện khuôn mặt và áp dụng mặt nạ Emoji thực tế ảo AR theo thời gian thực.</string>
+    <string name="grant_permission">Cấp Quyền Camera</string>
+    <string name="permission_denied_toast">Cần cấp quyền camera để sử dụng ứng dụng.</string>
+
+    <!-- Camera controls -->
+    <string name="flip_camera">Đổi Camera</string>
+    <string name="flash_auto">Flash Tự Động</string>
+    <string name="flash_on">Bật Flash</string>
+    <string name="flash_off">Tắt Flash</string>
+    <string name="capture_photo">Chụp Ảnh</string>
+    <string name="language_toggle">Ngôn Ngữ</string>
+    <string name="current_lang_badge">VI</string>
+
+    <!-- Expression status labels -->
+    <string name="no_face_detected">Đang tìm khuôn mặt…</string>
+    <string name="face_detected">Đã khớp khuôn mặt</string>
+    <string name="expr_smiling">😄 Mỉm Cười</string>
+    <string name="expr_laughing">😂 Cười To</string>
+    <string name="expr_winking_left">😉 Nháy Mắt Trái</string>
+    <string name="expr_winking_right">😉 Nháy Mắt Phải</string>
+    <string name="expr_eyes_closed">😌 Nhắm Mắt</string>
+    <string name="expr_mouth_open">😮 Há Miệng</string>
+    <string name="expr_kissing">😘 Chu Môi Hôn</string>
+    <string name="expr_frowning">😠 Cau Mày</string>
+    <string name="expr_surprised">😲 Kinh Ngạc</string>
+    <string name="expr_neutral">🙂 Bình Thường</string>
+
+    <!-- Mask Names -->
+    <string name="mask_grinning">Mỉm Cười</string>
+    <string name="mask_laughing">Cười Ra Nước Mắt</string>
+    <string name="mask_cat">Mặt Mèo</string>
+    <string name="mask_heart_eyes">Mắt Trái Tim</string>
+    <string name="mask_kissing">Hôn Gió</string>
+
+    <!-- AR Cutout vs Cartoon Mode -->
+    <string name="mode_ar_cutout">🎭 Mặt Nạ AR</string>
+    <string name="mode_cartoon">🎨 Hoạt Hình 2D</string>
+    <string name="mode_switched_ar">Đã bật Chế độ Mặt Nạ AR Khoét Lỗ (Lộ mắt &amp; lưỡi thật)</string>
+    <string name="mode_switched_cartoon">Đã bật Chế độ Mặt Nạ Hoạt Hình 2D</string>
+    <string name="faces_detected_count">%1$d Khuôn mặt</string>
+    <string name="mask_wink">Nháy Mắt</string>
+    <string name="mask_scream">Hét Kinh Hoàng</string>
+    <string name="mask_sunglasses">Kính Ngầu</string>
+    <string name="mask_crying">Khóc Ròng</string>
+    <string name="mask_angry">Tức Giận</string>
+    <string name="mask_zany">Hài Hước</string>
+    <string name="mask_star_struck">Mắt Ngôi Sao</string>
+    <string name="mask_party">Tiệc Tùng</string>
+    <string name="mask_robot">Người Máy</string>
+    <string name="mask_alien">Người Ngoài Hành Tinh</string>
+    <string name="mask_clown">Chú Hề</string>
+    <string name="mask_devil">Ác Quỷ</string>
+    <string name="mask_mask">Khẩu Trang</string>
+
+    <!-- Photo Preview Dialog -->
+    <string name="preview_title">Ảnh Đã Chụp!</string>
+    <string name="save_photo">Lưu Vào Máy</string>
+    <string name="share_photo">Chia Sẻ</string>
+    <string name="retake_photo">Chụp Lại</string>
+    <string name="photo_saved_success">Đã lưu ảnh vào Thư viện (Pictures/EmojiMask)</string>
+    <string name="photo_save_failed">Không thể lưu ảnh</string>
+    <string name="share_subject">Ảnh Selfie Emoji Mask của tôi!</string>
+    <string name="share_text">Xem ảnh selfie thú vị của tôi với Emoji Mask AR này! 🎭✨</string>
+    <string name="dialog_select_language">Chọn Ngôn Ngữ</string>
+    <string name="lang_vietnamese">Tiếng Việt (Vietnamese)</string>
+    <string name="lang_english">English (Tiếng Anh)</string>
+    <string name="offline_badge">100% Offline • Trên Thiết Bị</string>
+</resources>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">Emoji Mask</string>
+    <string name="app_tagline">Real-Time AR Emoji Mask &amp; Expression Tracker</string>
+
+    <!-- Permissions -->
+    <string name="permission_camera_title">Camera Permission Required</string>
+    <string name="permission_camera_message">Emoji Mask needs camera access to detect your face and render AR emoji masks in real-time.</string>
+    <string name="grant_permission">Grant Permission</string>
+    <string name="permission_denied_toast">Camera permission is required to use the app.</string>
+
+    <!-- Camera controls -->
+    <string name="flip_camera">Switch Camera</string>
+    <string name="flash_auto">Flash Auto</string>
+    <string name="flash_on">Flash On</string>
+    <string name="flash_off">Flash Off</string>
+    <string name="capture_photo">Capture Photo</string>
+    <string name="language_toggle">Language</string>
+    <string name="current_lang_badge">EN</string>
+
+    <!-- Expression status labels -->
+    <string name="no_face_detected">Looking for face…</string>
+    <string name="face_detected">Face Tracked</string>
+    <string name="expr_smiling">😄 Smiling</string>
+    <string name="expr_laughing">😂 Laughing</string>
+    <string name="expr_winking_left">😉 Winking Left</string>
+    <string name="expr_winking_right">😉 Winking Right</string>
+    <string name="expr_eyes_closed">😌 Eyes Closed</string>
+    <string name="expr_mouth_open">😮 Mouth Open</string>
+    <string name="expr_kissing">😘 Kissing</string>
+    <string name="expr_frowning">😠 Frowning</string>
+    <string name="expr_surprised">😲 Surprised</string>
+    <string name="expr_neutral">🙂 Neutral</string>
+
+    <!-- Mask Names -->
+    <string name="mask_grinning">Grinning</string>
+    <string name="mask_laughing">Joy</string>
+    <string name="mask_cat">Cat</string>
+    <string name="mask_heart_eyes">Heart Eyes</string>
+    <string name="mask_kissing">Blowing Kiss</string>
+
+    <!-- AR Cutout vs Cartoon Mode -->
+    <string name="mode_ar_cutout">🎭 AR Mask</string>
+    <string name="mode_cartoon">🎨 2D Emoji</string>
+    <string name="mode_switched_ar">Switched to AR Cutout Mode (Face &amp; Tongue visible)</string>
+    <string name="mode_switched_cartoon">Switched to 2D Emoji Mode</string>
+    <string name="faces_detected_count">%1$d Faces Tracked</string>
+    <string name="mask_wink">Wink</string>
+    <string name="mask_scream">Scream</string>
+    <string name="mask_sunglasses">Cool</string>
+    <string name="mask_crying">Crying</string>
+    <string name="mask_angry">Angry</string>
+    <string name="mask_zany">Zany</string>
+    <string name="mask_star_struck">Star-Struck</string>
+    <string name="mask_party">Party</string>
+    <string name="mask_robot">Robot</string>
+    <string name="mask_alien">Alien</string>
+    <string name="mask_clown">Clown</string>
+    <string name="mask_devil">Devil</string>
+    <string name="mask_mask">Mask</string>
+
+    <!-- Photo Preview Dialog -->
+    <string name="preview_title">Photo Captured!</string>
+    <string name="save_photo">Save</string>
+    <string name="share_photo">Share</string>
+    <string name="retake_photo">Retake</string>
+    <string name="photo_saved_success">Photo saved to Gallery (Pictures/EmojiMask)</string>
+    <string name="photo_save_failed">Failed to save photo</string>
+    <string name="share_subject">My Emoji Mask Selfie!</string>
+    <string name="share_text">Check out my selfie with Emoji Mask! 🎭✨</string>
+    <string name="dialog_select_language">Select Language</string>
+    <string name="lang_vietnamese">Tiếng Việt (Vietnamese)</string>
+    <string name="lang_english">English (Tiếng Anh)</string>
+    <string name="offline_badge">100% On-Device • Offline</string>
+</resources>

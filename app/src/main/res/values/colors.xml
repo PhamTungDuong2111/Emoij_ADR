@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Brand / Theme Colors -->
+    <color name="color_primary">#FFD027</color>
+    <color name="color_primary_variant">#FFA000</color>
+    <color name="color_secondary">#00E5FF</color>
+    <color name="color_accent">#FF2D55</color>
+
+    <color name="bg_dark">#0C0E14</color>
+    <color name="bg_surface_glass">#B312151E</color>
+    <color name="bg_surface_card">#1A1D27</color>
+    <color name="bg_surface_active">#33FFD027</color>
+
+    <!-- Glass border & dividers -->
+    <color name="glass_border">#33FFFFFF</color>
+    <color name="glass_border_active">#FFFFD027</color>
+
+    <!-- Text colors -->
+    <color name="text_primary">#FFFFFFFF</color>
+    <color name="text_secondary">#B3FFFFFF</color>
+    <color name="text_muted">#66FFFFFF</color>
+
+    <!-- Controls -->
+    <color name="shutter_outer">#80FFFFFF</color>
+    <color name="shutter_inner">#FFFFFFFF</color>
+    <color name="shutter_glow">#40FFD027</color>
+
+    <!-- Badges -->
+    <color name="badge_bg">#80000000</color>
+    <color name="badge_active_bg">#CC1E2330</color>
+    <color name="badge_green">#00E676</color>
+</resources>
